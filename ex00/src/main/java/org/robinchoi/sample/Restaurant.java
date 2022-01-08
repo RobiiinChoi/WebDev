@@ -24,6 +24,6 @@ import lombok.ToString;
 @RequiredArgsConstructor
 public class Restaurant {
 		
-	
+	 
 	private final Chef chef;
 }
